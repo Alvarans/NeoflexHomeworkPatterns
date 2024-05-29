@@ -1,33 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="670c9d44-582e-44fc-a9c0-700f0da2b221" name="Changes" comment="" />
+    <list default="true" id="670c9d44-582e-44fc-a9c0-700f0da2b221" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bdproxy/DBProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bdproxy/DBProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bdproxy/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bdproxy/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coffeefactory/Americano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coffeefactory/Americano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coffeefactory/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coffeefactory/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coffeefactory/CoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coffeefactory/CoffeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coffeefactory/CoffeeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coffeefactory/CoffeeMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coffeefactory/CoffeeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coffeefactory/CoffeeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coffeefactory/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coffeefactory/Espresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singletonlogger/FirstTextClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singletonlogger/FirstTextClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singletonlogger/SecondTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singletonlogger/SecondTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singletonlogger/SingletonLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singletonlogger/SingletonLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usbadapter/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usbadapter/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usbadapter/MemoryCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usbadapter/MemoryCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usbadapter/MemoryCardAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usbadapter/MemoryCardAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usbadapter/USB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usbadapter/USB.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2gufJp6S9IiRsRWGCoVOV50CjWv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "onboarding.tips.debug.path": "D:/repos/Java projects/patterns/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/repos/Java projects/patterns/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,19 +71,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716552316391</updated>
-      <workItem from="1716552317430" duration="2000" />
+      <workItem from="1716552317430" duration="816000" />
+      <workItem from="1716557107992" duration="1795000" />
+      <workItem from="1716617700861" duration="15312000" />
+      <workItem from="1716712405240" duration="2665000" />
+      <workItem from="1716794826513" duration="2974000" />
+      <workItem from="1716833999775" duration="90000" />
+      <workItem from="1716886382365" duration="645000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

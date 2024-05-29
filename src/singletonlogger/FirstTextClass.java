@@ -1,5 +1,5 @@
 package singletonlogger;
 
-public class TestClass {
-    private int field;
+public class FirstTextClass {
+    private int firstfield;
 }

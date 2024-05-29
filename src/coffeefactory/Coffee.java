@@ -1,2 +1,5 @@
-package coffeefactory;public class Coffee {
+package coffeefactory;
+
+public abstract class Coffee {
+    public abstract int addingWater();
 }

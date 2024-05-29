@@ -1,2 +1,6 @@
-package coffeefactory;public enum CoffeeType {
+package coffeefactory;
+
+public enum CoffeeType {
+    ESPRESSO,
+    AMERICANO
 }

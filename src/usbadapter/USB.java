@@ -1,6 +1,6 @@
 package usbadapter;
 
-public class USBCable {
+public class USB {
 
     public String set() {
         return "usb cable";
